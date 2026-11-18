@@ -1,0 +1,26 @@
+[
+  {
+    "record_id": "lesson-classical-1",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T10:00:00Z",
+    "text": "择其善者而从之。",
+    "context": "古文"
+  },
+  {
+    "record_id": "lesson-classical-2",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T10:05:00Z",
+    "text": "师道之不传也久矣。",
+    "context": "古文"
+  },
+  {
+    "record_id": "lesson-expository-1",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T10:10:00Z",
+    "text": "说明文常用列数字的方法。",
+    "context": "现代说明文"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "entries": [
+    {"term": "词", "senses": [{"pos": "名词", "origin": "general", "note": "语言单位"}]},
+    {"term": "性", "senses": [{"pos": "名词", "origin": "general", "note": "性质、特性"}]},
+    {"term": "教", "senses": [{"pos": "动词", "origin": "general", "note": "传授、教导"}]},
+    {"term": "师", "senses": [{"pos": "名词", "origin": "general", "note": "教师"}]},
+    {"term": "学", "senses": [{"pos": "动词", "origin": "general", "note": "学习"}]},
+    {"term": "说", "senses": [{"pos": "动词", "origin": "general", "note": "说明、解说"}]},
+    {"term": "明", "senses": [{"pos": "形容词", "origin": "general", "note": "明确、明白"}]},
+    {"term": "列", "senses": [{"pos": "动词", "origin": "general", "note": "列举"}]},
+    {"term": "法", "senses": [{"pos": "名词", "origin": "general", "note": "方法"}]},
+    {"term": "之", "senses": [
+      {"pos": "助词", "contexts": ["古文"], "origin": "general", "note": "结构助词"},
+      {"pos": "动词", "contexts": ["古文"], "origin": "general", "note": "往、到……去"}
+    ]},
+    {"term": "道", "senses": [
+      {"pos": "名词", "contexts": ["古文"], "origin": "general", "note": "道路、道理"},
+      {"pos": "动词", "contexts": ["古文"], "origin": "general", "note": "说、讲"}
+    ]},
+    {"term": "其", "senses": [
+      {"pos": "代词", "contexts": ["古文"], "origin": "general", "note": "他的、那"},
+      {"pos": "副词", "contexts": ["古文"], "origin": "school", "note": "校本：表推测语气"}
+    ]}
+  ]
+}
