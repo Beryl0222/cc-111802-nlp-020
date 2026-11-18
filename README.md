@@ -4,7 +4,7 @@
 
 ## 环境
 
-需要 Python 3.11 或更新版本，不依赖外部服务或第三方包。
+需要 Python 3.11 或更新版本。应用运行不依赖第三方包；运行测试和构建前，安装固定版本的开发工具：`python -m pip install -r requirements-dev.txt`。
 
 ## 运行
 
@@ -12,4 +12,4 @@
 
 ## 测试
 
-执行 `PYTHONPATH=src python -m unittest discover -s tests -v` 检查文本规范化、记录处理、状态读取及本地持久化。
+执行 `python -m pytest -q` 检查文本规范化、记录处理、状态读取及本地持久化。
