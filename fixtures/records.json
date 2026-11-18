@@ -1,0 +1,18 @@
+[
+  {
+    "record_id": "teacher-glossary-pos-lesson-a",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:00:00Z",
+    "text": "学科词性校订库需要保留词性标注和原文依据。",
+    "context": "教研演练"
+  },
+  {
+    "record_id": "teacher-glossary-pos-lesson-b",
+    "source": "school-synthetic",
+    "revision": 1,
+    "observed_at": "2026-11-18T09:05:00Z",
+    "text": "教师复核词性标注时应查看课程语境。",
+    "context": "课堂练习"
+  }
+]
